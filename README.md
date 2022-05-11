@@ -1,4 +1,4 @@
-![proje image](markdown-previewer.png) 
+# React-redux-markdown-previewer
 
 
 
